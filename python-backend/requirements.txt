@@ -11,3 +11,4 @@ sentence-transformers
 chromadb
 langchain-xai
 python-dotenv
+tavily-python
